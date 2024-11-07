@@ -13,7 +13,7 @@ public class CsvRowParser {
         + CORRECT_HEADER_USAGE;
 
     private static final String MESSAGE_INVALID_EXTRA_COLUMNS = "There are extra columns!\n"
-        + "Please ensure there is only be 8 corresponding header/data columns\n"
+        + "Please ensure there are only be 7 corresponding header/data columns\n"
         + CORRECT_HEADER_USAGE;
 
     private static final String MESSAGE_INVALID_INSUFFICIENT_COLUMNS = "There are lesser columns in header than "
